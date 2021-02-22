@@ -1,7 +1,7 @@
-// Week 2 Day 3 Morning Lab
+/////////Week 2 Day 3 Morning Lab
 // 1. Write a function maxOfTwoNumbers that takes two numbers as arguments and returns the largest of them.
 // Use the if-then-else construct available in Javascript.
-// Do some googling to figure this out if you forget how conditionals work.
+
 function maxOfTwoNumbers(num1,num2){
   if(num1>num2){
     return num1;
